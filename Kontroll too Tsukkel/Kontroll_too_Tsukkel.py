@@ -1,5 +1,4 @@
 from random import *
-from this import s
 #5 variant
 
 #1
